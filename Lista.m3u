@@ -1971,6 +1971,5 @@ https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-429 tvg-logo="https://i.postimg.cc/NF1tjtsS/eurolatina.png" group-title="OTROS PAÍSES", EUROLATINA
 https://cdn01.yowi.tv/ZM1I2N6F9E/live-1600.m3u8
 
-#EXTINF:-439 tvg-
-group-title="ARGENTINA", TYC
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="ARGENTINA", TYC
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
