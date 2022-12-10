@@ -10,10 +10,10 @@ http://170.83.242.152:5350/play/a024
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-http://200.41.79.165:8000/play/a0hy/index.m3u8
+https://list.iptvcat.com/my_list/s/4bb3b3d5c81160d8ef16d4f0d17d2cdb.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
-http://170.83.242.152:5350/play/a021
+https://list.iptvcat.com/my_list/s/ac7bfbe39ae46569d15c38e9afca14c8.m3u8
 
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES", MI TV
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv16/capiatatv16/chunklist_w16353138
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+https://list.iptvcat.com/my_list/s/f6f4e13a36fa7bfd54df03e700380269.m3u8
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://170.83.242.152:5350/play/a025
@@ -37,7 +37,7 @@ http://170.83.242.152:5350/play/a00j
 https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 
 #EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
-https://streaming.trece.com.py/live/trece.m3u8
+https://list.iptvcat.com/my_list/s/7756ed268dfa37a785b50683805c5eae.m3u8
 
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="NACIONALES", PARAGUAY TV
 http://170.83.242.152:5350/play/a01o
@@ -1972,4 +1972,10 @@ https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
 https://cdn01.yowi.tv/ZM1I2N6F9E/live-1600.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="ARGENTINA", TYC
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+https://list.iptvcat.com/my_list/s/9d93f067c2c3508fb5a8b6f7be895c62.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="ARGENTINA", DEPORTV
+https://list.iptvcat.com/my_list/s/2bdf4c4f21f3afba18c013e209152aa9.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="ARGENTINA", TV Publica
+https://list.iptvcat.com/my_list/s/f70fc0922755be2bcdce873c684d1ebc.m3u8
